@@ -28,8 +28,8 @@ A simple Spring Boot application for managing books with full CRUD functionality
 🌐 API Endpoints
 **Method	Endpoint	    Description**
 
-POST	  /books	      Create a new book
-GET	    /books	      Get all books
-GET	    /books/{id}	  Get a book by ID
-PUT	    /books/{id}	  Update a book
-DELETE	/books/{id}	  Delete a book
+- POST	  /books	      Create a new book
+- GET	    /books	      Get all books
+- GET	    /books/{id}	  Get a book by ID
+- PUT	    /books/{id}	  Update a book
+- DELETE	/books/{id}	  Delete a book
